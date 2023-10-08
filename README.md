@@ -33,7 +33,7 @@
 - 이미지
   <br>
   - 보스의 패턴이 미리 표시되고 플레이어는 이를 보고 미리 회피기를 통해 회피를 하며 보스의 패턴을 공략하고 컨트롤하여 공격하는 플레이를 할 수 있습니다.
-  ![게임관련이미지1](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/bdfbfe56-bfb1-4776-822c-db26fa0ec45e)
+  ![게임관련이미지1](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/931bea54-a873-4bce-bcfd-442d9cab2f3b)
   
   - 던전이라는 어두운 이미지의 게임이라 생각할 수 있지만 캐릭터는 SD캐릭터와 같이 아기자기한 캐릭터로 반전매력을 느낄 수 있다.
   ![게임관련이미지2](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/4868edd6-fb99-48d6-8740-3e9394a7f8f5)

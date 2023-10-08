@@ -44,7 +44,7 @@
 
 # [대표 이미지]
 
-![대표 이미지](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/6d3da855-6eb4-45e3-aed5-75bd55700670)
+![대표 이미지](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/1b8202ae-1cc2-439c-94d9-4c5b9039f405)
 
 <br><br>
 

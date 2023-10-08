@@ -36,7 +36,7 @@
   ![게임관련이미지1](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/bdfbfe56-bfb1-4776-822c-db26fa0ec45e)
   
   - 던전이라는 어두운 이미지의 게임이라 생각할 수 있지만 캐릭터는 SD캐릭터와 같이 아기자기한 캐릭터로 반전매력을 느낄 수 있다.
-  ![게임관련이미지2](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/73af2951-9f5d-4822-8303-b0a2152260bb)
+  ![게임관련이미지2](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/4868edd6-fb99-48d6-8740-3e9394a7f8f5)
 - 동영상
   [![관련 동영상](https://youtu.be/2Ebq06HVDRk?si=vKK0nTREIIOeWNOy/0.jpg)](https://youtu.be/2Ebq06HVDRk?si=vKK0nTREIIOeWNOy)
 

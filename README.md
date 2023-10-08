@@ -40,7 +40,7 @@
   ![게임관련이미지2](https://github.com/PParkJong/PParkJong.github.io/assets/147227701/4868edd6-fb99-48d6-8740-3e9394a7f8f5)
 - 동영상
   <br>
-  [![관련 동영상](https://img.youtube.com/vi/vKK0nTREIIOeWNOy/0.jpg)](https://youtu.be/2Ebq06HVDRk?si=vKK0nTREIIOeWNOy)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2Ebq06HVDRk?si=hJraHh_GeKITSqq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br>
 

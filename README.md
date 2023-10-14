@@ -146,29 +146,11 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 
 1) 오브젝트 이름 : Player
 
-| 연번 | 오브젝트 이름  | 오브젝트 이미지 |
-|:----:|:----:|:----:|
-| 1 | 플레이어 | <img src="./img/플레이어.png" width="500"> |
-| 2 | 보스1 | <img src="./img/보스1.png" width="500"> |
-| 3 | 몬스터1 | <img src="./img/몬스터1.png" height="300"> |
-| 4 | 몬스터2 | <img src="./img/몬스터2.png" height="300"> |
-| 5 | 몬스터3 | <img src="./img/몬스터3.png" height="300"> |
-| 6 | 보스2 | <img src="./img/보스2.png" height="300"> |
-| 7 | 몬스터4 | <img src="./img/몬스터4.png" height="300"> |
-| 8 | 몬스터5 | <img src="./img/몬스터5.png" height="300"> |
-| 9 | 몬스터6 | <img src="./img/몬스터6.png" height="300"> |
-| 10 | 상자 | <img src="./img/상자.png" height="300"> |
-| 11 | 검 | <img src="./img/검.png" height="300"> |
-| 12 | 갑옷 | <img src="./img/갑옷.png" height="300"> |
-| 13 | 물약 | <img src="./img/물약.png" height="300"> |
-| 14 | 코인 | <img src="./img/코인.png" height="300"> |
-| 15 | 상점 | <img src="./img/상점.png" height="300"> |
-| 16 | 포탈 | <img src="./img/포탈.png" height="300"> |
-| 17 | 플레이어 체력UI | <img src="./img/HealthOrb.jpg" height="300"> |
-| 18 | 스킬UI | <img src="./img/스킬UI.png" height="300"> |
-| 19 | 물약UI | <img src="./img/물약UI.png" height="300"> |
-| 20 | 코인UI | <img src="./img/코인UI.png" height="300"> |
-| 21 | BGM | <img src="./img/BGM.png" height="300"> |
-| 22 | 인벤토리 | <img src="./img/인벤토리.png" height="300"> |
-| 23 | 스킬창 | <img src="./img/스킬창.png" height="300"> |
-| 24 | 타이머 | <img src="./img/타이머2.png" height="300"> |
+| 속성 | 영문명칭  | 설명 | 비고 |
+|:----:|:----:|:----:|:----:|
+| 이름 | p_Name | 플레이어의 이름 ||
+| 체력 | p_Hp | 플레이어의 체력 수치 ||
+| 속도 | p_Speed |플레이어의 이동속도 ||
+| 공격력 | p_Atk | 플레이어의 공격력 수치 ||
+| 상태 | p_State | 플레이어의 상태 – 대기, 이동, 대쉬, 공격, 빈사상태 등 ||
+

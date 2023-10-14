@@ -134,6 +134,6 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 | 19 | 물약UI | <img src="./img/오브젝트19.png" height="300"> |
 | 20 | 코인UI | <img src="./img/오브젝트20.png" height="300"> |
 | 21 | BGM | <img src="./img/오브젝트20.png" height="300"> |
-| 22 | 인벤토리 | <img src="./img/오브젝트20.png" height="300"> |
+| 22 | 인벤토리 | <img src="./img/인벤토리.png" height="300"> |
 | 23 | 스킬창 | <img src="./img/오브젝트20.png" height="300"> |
 | 24 | 타이머 | <img src="./img/오브젝트20.png" height="300"> |

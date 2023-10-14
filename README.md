@@ -113,27 +113,27 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 
 | 연번 | 오브젝트 이름 | 오브젝트 이미지 |
 |:----:|:----:|:----:|
-| 1 | 플레이어 | <img src="./img/축구장.png" width="500"> |
-| 2 | 보스1 | <img src="./img/골대.png" width="500"> |
-| 3 | 몬스터1 | <img src="./img/홍길동선수.png" height="300"> |
-| 4 | 몬스터2 | <img src="./img/골킵.png" height="300"> |
-| 5 | 몬스터3 | <img src="./img/오브젝트5.png" height="300"> |
-| 6 | 보스2 | <img src="./img/오브젝트6.png" height="300"> |
-| 7 | 몬스터4 | <img src="./img/오브젝트7.png" height="300"> |
-| 8 | 몬스터5 | <img src="./img/오브젝트8.png" height="300"> |
-| 9 | 몬스터6 | <img src="./img/오브젝트9.png" height="300"> |
-| 10 | 상자 | <img src="./img/오브젝트10.png" height="300"> |
+| 1 | 플레이어 | <img src="./img/플레이어.png" width="500"> |
+| 2 | 보스1 | <img src="./img/보스1.png" width="500"> |
+| 3 | 몬스터1 | <img src="./img/몬스터1.png" height="300"> |
+| 4 | 몬스터2 | <img src="./img/몬스터2.png" height="300"> |
+| 5 | 몬스터3 | <img src="./img/몬스터3.png" height="300"> |
+| 6 | 보스2 | <img src="./img/보스2.png" height="300"> |
+| 7 | 몬스터4 | <img src="./img/몬스터4.png" height="300"> |
+| 8 | 몬스터5 | <img src="./img/몬스터5.png" height="300"> |
+| 9 | 몬스터6 | <img src="./img/몬스터6.png" height="300"> |
+| 10 | 상자 | <img src="./img/상자.png" height="300"> |
 | 11 | 검 | <img src="./img/검.png" height="300"> |
 | 12 | 갑옷 | <img src="./img/갑옷.png" height="300"> |
-| 13 | 물약 | <img src="./img/오브젝트13.png" height="300"> |
-| 14 | 코인 | <img src="./img/오브젝트14.png" height="300"> |
-| 15 | 상점 | <img src="./img/오브젝트15.png" height="300"> |
-| 16 | 포탈 | <img src="./img/오브젝트16.png" height="300"> |
+| 13 | 물약 | <img src="./img/물약.png" height="300"> |
+| 14 | 코인 | <img src="./img/코인.png" height="300"> |
+| 15 | 상점 | <img src="./img/상점.png" height="300"> |
+| 16 | 포탈 | <img src="./img/포탈.png" height="300"> |
 | 17 | 플레이어 체력UI | <img src="./img/HealthOrb.jpg" height="300"> |
-| 18 | 스킬UI | <img src="./img/오브젝트18.png" height="300"> |
-| 19 | 물약UI | <img src="./img/오브젝트19.png" height="300"> |
-| 20 | 코인UI | <img src="./img/오브젝트20.png" height="300"> |
-| 21 | BGM | <img src="./img/오브젝트20.png" height="300"> |
+| 18 | 스킬UI | <img src="./img/스킬UI.png" height="300"> |
+| 19 | 물약UI | <img src="./img/물약UI.png" height="300"> |
+| 20 | 코인UI | <img src="./img/코인UI.png" height="300"> |
+| 21 | BGM | <img src="./img/BGM.png" height="300"> |
 | 22 | 인벤토리 | <img src="./img/인벤토리.png" height="300"> |
-| 23 | 스킬창 | <img src="./img/오브젝트20.png" height="300"> |
+| 23 | 스킬창 | <img src="./img/스킬창.png" height="300"> |
 | 24 | 타이머 | <img src="./img/타이머2.png" height="300"> |

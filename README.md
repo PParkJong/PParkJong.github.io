@@ -129,11 +129,11 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 | 14 | 코인 | <img src="./img/오브젝트14.png" height="300"> |
 | 15 | 상점 | <img src="./img/오브젝트15.png" height="300"> |
 | 16 | 포탈 | <img src="./img/오브젝트16.png" height="300"> |
-| 17 | 플레이어 체력UI | <img src="./img/오브젝트17.png" height="300"> |
+| 17 | 플레이어 체력UI | <img src="./img/HealthOrb.png" height="300"> |
 | 18 | 스킬UI | <img src="./img/오브젝트18.png" height="300"> |
 | 19 | 물약UI | <img src="./img/오브젝트19.png" height="300"> |
 | 20 | 코인UI | <img src="./img/오브젝트20.png" height="300"> |
 | 21 | BGM | <img src="./img/오브젝트20.png" height="300"> |
 | 22 | 인벤토리 | <img src="./img/인벤토리.png" height="300"> |
 | 23 | 스킬창 | <img src="./img/오브젝트20.png" height="300"> |
-| 24 | 타이머 | <img src="./img/오브젝트20.png" height="300"> |
+| 24 | 타이머 | <img src="./img/타이머2.png" height="300"> |

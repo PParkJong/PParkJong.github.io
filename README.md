@@ -123,8 +123,8 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 | 8 | 몬스터5 | <img src="./img/오브젝트8.png" height="300"> |
 | 9 | 몬스터6 | <img src="./img/오브젝트9.png" height="300"> |
 | 10 | 상자 | <img src="./img/오브젝트10.png" height="300"> |
-| 11 | 검 | <img src="./img/오브젝트11.png" height="300"> |
-| 12 | 갑옷 | <img src="./img/오브젝트12.png" height="300"> |
+| 11 | 검 | <img src="./img/검.png" height="300"> |
+| 12 | 갑옷 | <img src="./img/갑옷.png" height="300"> |
 | 13 | 물약 | <img src="./img/오브젝트13.png" height="300"> |
 | 14 | 코인 | <img src="./img/오브젝트14.png" height="300"> |
 | 15 | 상점 | <img src="./img/오브젝트15.png" height="300"> |

@@ -140,7 +140,7 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 | 23 | 스킬 창 | <img src="./img/스킬창.png" height="300"> |
 | 24 | 타이머 | <img src="./img/타이머2.png" height="300"> |
 | 25 | 던전선택UI | <img src="./img/던전선택.jpg" height="300"> |
-| 26 | 베기 이펙트 | <img src="./img/SlashEffect.png" height="300"> |
+| 26 | 베기 이펙트 | <img src="./img/SlashEffect.jpg" height="300"> |
 | 27 | 스킬 이펙트 | <img src="./img/SkillEffect.png" height="300"> |
 | 28 | 폰트 | <img src="./img/Font.png" height="300"> |
 | 29 | 미션UI | <img src="./img/MissionUI.jpg" height="300"> |

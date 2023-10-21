@@ -59,9 +59,7 @@
 
 <br><br>
 
-# [<Dungeon Breaker> 구성 요소]
-
-- Dungeon Breaker
+# [<Dungeon Breaker> Dungeon Breaker 구성 요소]
 
 <br>
 

@@ -130,7 +130,7 @@ Unity를 기반으로 제작할 예정이다.
 | 4 | 몬스터2 | <img src="./img/몬스터2.png" height="300"> |
 | 5 | 몬스터3 | <img src="./img/몬스터3.png" height="300"> |
 | 6 | 보스2 | <img src="./img/보스2.png" height="300"> |
-| 7 | 몬스터4 | <img src="./img/몬스터4.png" height="300"> |
+| 7 | 몬스터4 | <img src="./img/몬스터3.png" height="300"> |
 | 8 | 몬스터5 | <img src="./img/몬스터5.png" height="300"> |
 | 9 | 몬스터6 | <img src="./img/몬스터6.png" height="300"> |
 | 10 | 상자 | <img src="./img/상자.png" height="300"> |
@@ -158,6 +158,7 @@ Unity를 기반으로 제작할 예정이다.
 | 32 | 스카이박스 | <img src="./img/Skybox.png" height="300"> |
 | 33 | 마을 | <img src="./img/Village.png" height="300"> |
 | 34 | 던전 | <img src="./img/Dungeon.png" height="300"> |
+| 35 | NPC | <img src="./img/몬스터4.png" height="300"> |
 
 <br>
 

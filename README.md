@@ -105,7 +105,7 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 
 <br><br>
 
-# [<Dungeon Breaker> 구성 요소 분석]
+# [<Dungeon Breaker> 게임시스템디자인]
 
 <br>
 

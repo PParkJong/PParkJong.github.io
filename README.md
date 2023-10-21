@@ -143,9 +143,9 @@ SD캐릭터는 보통 간단하고 쉬운 게임에 사용되지만 이 게임�
 | 26 | 베기 이펙트 | <img src="./img/SlashEffect.png" height="300"> |
 | 27 | 스킬 이펙트 | <img src="./img/SkillEffect.png" height="300"> |
 | 28 | 폰트 | <img src="./img/Font.png" height="300"> |
-| 29 | 미션UI | <img src="./img/MissionUI.png" height="300"> |
+| 29 | 미션UI | <img src="./img/MissionUI.jpg" height="300"> |
 | 30 | 퀘스트 창 | <img src="./img/QuestUI.png" height="300"> |
-| 31 | 로딩 창 | <img src="./img/Loading.png" height="300"> |
+| 31 | 로딩 창 | <img src="./img/Loading.jpg" height="300"> |
 | 32 | 스카이박스 | <img src="./img/Skybox.png" height="300"> |
 | 33 | 마을 | <img src="./img/Village.png" height="300"> |
 | 34 | 던전 | <img src="./img/Dungeon.png" height="300"> |

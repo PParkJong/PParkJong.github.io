@@ -500,11 +500,11 @@ Unity를 기반으로 제작할 예정이다.
 <br>
 
 ## 2. 시간별 흐름도 flowchart
-<img src="./img/Flowchart.png" height="800">
+<img src="./img/Flowchart.png" height="700">
 <br>
 
 ## 3. 키보드 이벤트에 대한 흐름도
-<img src="./img/키 이벤트.png" height="800">
+<img src="./img/키 이벤트.png" height="700">
 <br>
 
 ## 4. 용어정리

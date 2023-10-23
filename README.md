@@ -508,7 +508,7 @@ Unity를 기반으로 제작할 예정이다.
 <br>
 
 ## 4. 용어정리
-<img src="./img/용어정리.png" height="800">
+<img src="./img/용어정리.png" height="1200">
 
 <br><br>
 

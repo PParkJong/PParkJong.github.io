@@ -511,4 +511,4 @@ Unity를 기반으로 제작할 예정이다.
 <br><br>
 
 # [스토리보드]
-<img src="./img/스토리보드.png"  height="500">
+<img src="./img/StoryBoard.png"  height="500">
